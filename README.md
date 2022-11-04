@@ -1,6 +1,7 @@
 # Bekerja dengan Reach dan GoLang
 ## Index.js akan running otomatis 
 Untuk file App.js sudah tidak digunakan lagi
+Link Otomasinya disini (https://reactandgo.herokuapp.com/)[https://reactandgo.herokuapp.com/]
 
 Pelajari cara membuat aplikasi satu halaman di React, dengan data yang disediakan oleh REST API Go back end
 terdiri dari:
