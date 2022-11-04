@@ -8,7 +8,8 @@ terdiri dari:
 - [ ] Aplikasi Wajib Hello World
 - [ ] Gunakan Componen
 - [ ] Komponen Styling
-- [ ] Menggunakan Kerangka CSS
+- [ ] Menggunakan Framework CSS
+## Instal bootstrap : npm install bootstrap
 - [ ] Componen tambahan
 - [ ] Pengkondisian
 - [ ] Componen fungsional
